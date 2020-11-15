@@ -4,13 +4,6 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class username {
-    public static boolean verify(String username, Integer password) {
-        if (username == "David" && password == 1000) {
-            return true;
-        }
-
-        return false;
-    }
     public static String getName() {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter your username? ");
