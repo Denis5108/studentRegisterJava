@@ -4,8 +4,7 @@
 <img src="studentRegister.PNG">
 
 # DESCRIPTION
-The program takes an integer input, the input is a dollar amount. 
-The program then converts the dollar amount.
+Student reigstration program.
 
 # PROGRAM USED
-python
+Java
