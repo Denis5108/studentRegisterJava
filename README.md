@@ -1,7 +1,7 @@
 # studentRegisterJava
 
 # RUNNING THE TEST
-<img src="moneyImg.PNG">
+<img src="studentRegister.PNG">
 
 # DESCRIPTION
 The program takes an integer input, the input is a dollar amount. 
